@@ -1,8 +1,8 @@
 # Uncertainty modulated reward prediction error in VTA
 
 ## Project Overview
-This project identifies putative dopaminergic neurons in Ventral Tegmental Area (VTA) to investigate how they encode reward prediction error (RPE) during a visual discrimination task. While the subject mice is overtrained and the general task structure is stable, this project leverages trial by trial variability in visual stimulus contrast to introduce varying levels of perceptual uncertainty and reward expectation.
-The primary goal is to characterize how VTA encodes outcome related signals under different levels of usensory confidence, providing insight into how the brain maintains flexible reward signaling even in stable environments.
+This project identifies putative dopaminergic neurons in Ventral Tegmental Area (VTA) to investigate how they encode reward prediction error (RPE) during a visual discrimination task. While the subject mice are overtrained and the general task structure is stable, this project leverages trial by trial variability in visual stimulus contrast to introduce varying levels of perceptual uncertainty and reward expectation.
+The primary goal is to characterize how VTA encodes outcome related signals under different levels of sensory confidence, providing insight into how the brain maintains flexible reward signaling even in stable environments.
 
 ## Content
 Task Structure: A visual discrimination task where mice are required to turn a wheel toward a visual stimulus (left or right) to receive a sugar water reward.
@@ -11,7 +11,7 @@ Independent Variable: Stimulus Contrast. The contrast varies trial-by-trial, cre
 
 Dataset:
 
-Source: International Brain Lab (IBL) public dataset.
+Source: International Brain Lab (IBL) public dataset. [International Brain Lab (IBL)](https://www.internationalbrainlab.com)
 
 Data: Electrophysiological data.
 
