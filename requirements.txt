@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+statsmodels
+tabulate
+ONE-api
+ibllib
+jupyter
